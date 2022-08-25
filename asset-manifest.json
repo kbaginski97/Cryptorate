@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Cryptorate/static/css/main.08b85860.css",
+    "main.js": "/Cryptorate/static/js/main.0e11900e.js",
+    "static/js/787.805a83b7.chunk.js": "/Cryptorate/static/js/787.805a83b7.chunk.js",
+    "static/media/btc.png": "/Cryptorate/static/media/btc.9840879163c19ea715cb.png",
+    "index.html": "/Cryptorate/index.html",
+    "main.08b85860.css.map": "/Cryptorate/static/css/main.08b85860.css.map",
+    "main.0e11900e.js.map": "/Cryptorate/static/js/main.0e11900e.js.map",
+    "787.805a83b7.chunk.js.map": "/Cryptorate/static/js/787.805a83b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b85860.css",
+    "static/js/main.0e11900e.js"
+  ]
+}
